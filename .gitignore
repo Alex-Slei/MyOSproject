@@ -56,7 +56,6 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
-project/src/P_*
 project/src/T_*
 project/src/*.sh
 
